@@ -42,8 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataRecord.cs" />
+    <Compile Include="Line.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignalProcessor.cs" />
     <Compile Include="Vector2D.cs" />
   </ItemGroup>
   <ItemGroup>
